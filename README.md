@@ -27,24 +27,24 @@ From the above figure, we see that 2 clusters are not enough to properly quantif
 
 3. To know the actual number of clusters needed we standardize the variables and apply the elbow method(WCSS vs Number of Clusters).
   
-4. ![image](https://github.com/Hansaraj09/Market-Segmentation/assets/93324559/95fb459e-add6-4587-a562-d05909cbd139)
+ ![image](https://github.com/Hansaraj09/Market-Segmentation/assets/93324559/95fb459e-add6-4587-a562-d05909cbd139)
    
 From the above figure, we see the elbow is at  4 points i.e. at n=2,3,4,5 where n is the number of clusters.
 
-5. Now we plot the clusters at these points and  we see that n=4 gives us the optimum number of clusters.
+4. Now we plot the clusters at these points and  we see that n=4 gives us the optimum number of clusters.
 
 ![image](https://github.com/Hansaraj09/Market-Segmentation/assets/93324559/6c83b9fb-f8e6-43e4-b355-c14dab2dc562)
 
 ## Insights
-1. We can divide the 4 clusters obtained above as follows:
+ We can divide the 4 clusters obtained above as follows:
    
-  1.**Blue:** High satisfaction and high loyalty (or fans).
+1.**Blue:** High satisfaction and high loyalty (or fans).
   
-  3. **Yellow:** Low satisfaction and high loyalty (or supporters).
+2. **Yellow:** Low satisfaction and high loyalty (or supporters).
      
-  4. **Red:** High satisfaction and low loyalty (or roamers).
+3. **Red:** High satisfaction and low loyalty (or roamers).
      
-  5. **Purple:** Low satisfaction and low loyalty (or alienated).
+4. **Purple:** Low satisfaction and low loyalty (or alienated).
 
 Thus from the above insights we can say that more number of **fans** is better for the business and we should try to convert more **supporters** into **fans** by increasing their satisfaction levels. And we can also convert more **roamers** by increasing their loyalty say by giving vouchers and coupons.
 
