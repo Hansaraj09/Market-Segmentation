@@ -46,7 +46,7 @@ From the above figure, we see the elbow is at  4 points i.e. at n=2,3,4,5 where 
      
 4.**Purple:** Low satisfaction and low loyalty (or alienated).
 
-Our analysis suggests that a larger fan base directly translates to greater business success. Therefore, efforts should be directed towards converting supporters into ardent fans by enhancing their satisfaction levels. Additionally, implementing loyalty programs with incentives like vouchers and coupons can effectively transform casual roamers into committed customers.
+Our analysis suggests that a larger **fan** base directly translates to greater business success. Therefore, efforts should be directed towards converting **supporters** into ardent fans by enhancing their satisfaction levels. Additionally, implementing loyalty programs with incentives like vouchers and coupons can effectively transform casual **roamers** into committed customers.
 
 
 
