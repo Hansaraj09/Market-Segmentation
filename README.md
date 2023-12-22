@@ -40,13 +40,13 @@ From the above figure, we see the elbow is at  4 points i.e. at n=2,3,4,5 where 
    
 1.**Blue:** High satisfaction and high loyalty (or fans).
   
-2. **Yellow:** Low satisfaction and high loyalty (or supporters).
+2.**Yellow:** Low satisfaction and high loyalty (or supporters).
      
-3. **Red:** High satisfaction and low loyalty (or roamers).
+3.**Red:** High satisfaction and low loyalty (or roamers).
      
-4. **Purple:** Low satisfaction and low loyalty (or alienated).
+4.**Purple:** Low satisfaction and low loyalty (or alienated).
 
-Thus from the above insights we can say that more number of **fans** is better for the business and we should try to convert more **supporters** into **fans** by increasing their satisfaction levels. And we can also convert more **roamers** by increasing their loyalty say by giving vouchers and coupons.
+Our analysis suggests that a larger fan base directly translates to greater business success. Therefore, efforts should be directed towards converting supporters into ardent fans by enhancing their satisfaction levels. Additionally, implementing loyalty programs with incentives like vouchers and coupons can effectively transform casual roamers into committed customers.
 
 
 
