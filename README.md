@@ -1,5 +1,5 @@
 # Market-Segmentation
-This project leverages clustering algorithms to uncover meaningful patterns within the dataset. 
+This project leverages k-means clustering algorithms to uncover meaningful patterns within the dataset. 
 
 ## Dependencies
 To facilitate this analysis, the following Python libraries were employed:
@@ -16,7 +16,24 @@ The project takes into account two metrics for market segmentation i.e. brand lo
 **Brand Loyalty:** This dataset takes into account yearly purchases and other factors. This data type is continuous.
 
 ## Project Explanation
-1.In this project, our main aim is to divide the market into different clusters and correspondingly target those customers who have high brand loyalty ad satisfaction.
+1. In this project, our main aim is to divide the market into different clusters and correspondingly target those customers who have high brand loyalty and satisfaction.
 2. To achieve that we  initially divide our dataset into 2 clusters in the "Loyalty" vs "Satisfaction" plane.
 
 ![image](https://github.com/Hansaraj09/Market-Segmentation/assets/93324559/902bd4ae-0e0b-4ecf-bb4b-cc7a4c2ec8b3)
+
+From the above figure, we see that 2 clusters are not enough to properly quantify the above problem.
+
+3. To know the actual number of clusters needed we standardize the variables and apply the elbow method(WCSS vs Number of Clusters).
+  
+4. ![image](https://github.com/Hansaraj09/Market-Segmentation/assets/93324559/95fb459e-add6-4587-a562-d05909cbd139)
+
+From the above figure, we see the elbow is at  4 points i.e. at n=2,3,4,5 where n is the number of clusters.
+
+5. Now we plot the clusters at these points and  we see that n=4 gives us the optimum number of clusters.
+
+![image](https://github.com/Hansaraj09/Market-Segmentation/assets/93324559/6c83b9fb-f8e6-43e4-b355-c14dab2dc562)
+
+
+
+
+
