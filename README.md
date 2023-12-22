@@ -35,6 +35,20 @@ From the above figure, we see the elbow is at  4 points i.e. at n=2,3,4,5 where 
 
 ![image](https://github.com/Hansaraj09/Market-Segmentation/assets/93324559/6c83b9fb-f8e6-43e4-b355-c14dab2dc562)
 
+## Insights
+1. We can divide the 4 clusters obtained above as follows:
+   
+  1.**Blue:** High satisfaction and high loyalty (or fans).
+  
+  3. **Yellow:** Low satisfaction and high loyalty (or supporters).
+     
+  4. **Red:** High satisfaction and low loyalty (or roamers).
+     
+  5. **Purple:** Low satisfaction and low loyalty (or alienated).
+
+Thus from the above insights we can say that more number of **fans** is better for the business and we should try to convert more **supporters** into **fans** by increasing their satisfaction levels. And we can also convert more **roamers** by increasing their loyalty say by giving vouchers and coupons.
+
+
 
 
 
