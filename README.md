@@ -12,7 +12,9 @@ The strategic integration of these libraries provides a robust and versatile fra
 
 ## Dataset Explanation
 The project takes into account two metrics for market segmentation i.e. brand loyalty and consumer satisfaction.
+
 **Consumer Satisfaction:** In this the consumers are allowed to rate their shopping experience from 1 to 10. This datatype is discrete and it takes integer values.
+
 **Brand Loyalty:** This dataset takes into account yearly purchases and other factors. This data type is continuous.
 
 ## Project Explanation
